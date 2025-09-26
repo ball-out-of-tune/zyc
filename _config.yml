@@ -24,11 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhong Yichen / 钟祎宸"
+  name             : "Zhong Yichen 
+                      钟祎宸 "
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
-  employer         : "Beijing Institute of Technology"
+  employer         : "Beijing Institute 
+                      of Technology"
   uri              : # URL
   email            : "1687436023@qq.com" 
 
